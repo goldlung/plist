@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://api.mqitu.com/home2.png</string>
+					<string>http://api.mqitu.com/home.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
